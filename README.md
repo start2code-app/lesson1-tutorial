@@ -1,14 +1,7 @@
 
 > Open this page at [https://start2code-app.github.io/lesson1-tutorial/](https://start2code-app.github.io/lesson1-tutorial/)
 
-## Use as Extension
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/start2code-app/lesson1-tutorial** and import
 
 ## Edit this project ![Build status badge](https://github.com/start2code-app/lesson1-tutorial/workflows/MakeCode/badge.svg)
 
