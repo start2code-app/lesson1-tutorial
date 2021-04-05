@@ -3,7 +3,7 @@
 
 ## Lessons
 
-* [Lesson1](/lesson1-tutorial/lesson1)
+* [Lesson1](/lesson1-tutorial/lesson1) [start](https://makecode.microbit.org/#tutorial:github:start2code-app/lesson1-tutorial/lesson1)
 
 ## Edit this project ![Build status badge](https://github.com/start2code-app/lesson1-tutorial/workflows/MakeCode/badge.svg)
 
