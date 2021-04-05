@@ -1,7 +1,9 @@
 
 > Open this page at [https://start2code-app.github.io/lesson1-tutorial/](https://start2code-app.github.io/lesson1-tutorial/)
 
+## Lessons
 
+* [Lesson1](/lesson1)
 
 ## Edit this project ![Build status badge](https://github.com/start2code-app/lesson1-tutorial/workflows/MakeCode/badge.svg)
 
